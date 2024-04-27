@@ -1,0 +1,27 @@
+.counter-display {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.counter-display div {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    font-weight:550;
+    padding: 0px 10px;
+    font-size: 60px;
+}
+
+.counter-display .clock-img {
+    padding-left: 60px;
+}
+
+.counter-display .ones {
+    padding-right: 60px;
+}
+
+.bi-alarm {
+    width: 60px;
+    height: 60px;
+    padding-bottom: 5px;
+}
